@@ -10,7 +10,7 @@ sudo ./install.sh
 ```
 
 ### Alternative
-Copy [script](CP.sh) in your `.bashrc` (or `.zshrc`) file 😉.
+Copy [script](CP.sh) without line 48 in your `.bashrc` (or `.zshrc`) file 😉.
 
 ## Usage
 To you want run `HelloWorld.cpp` is such to done 
