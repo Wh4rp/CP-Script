@@ -4,7 +4,7 @@ A script to compile (whit `g++`) and run C++ files for Competitive Programming w
 ## Instalation
 Just run
 ```bash
-git clone https://github.com/Wh4rp/CP-Script
+git clone https://github.com/Wh4rp/CP-Script.git
 cd CP-Script
 sudo ./install.sh
 ```
