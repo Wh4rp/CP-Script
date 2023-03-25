@@ -1,4 +1,6 @@
-function CP () {
+#!/bin/bash
+
+function CP() {
 
     cache_path="$HOME/.cache"   # Directory where compiled files goes
     input_path="./in.txt"       # Input file
